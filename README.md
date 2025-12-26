@@ -1,6 +1,6 @@
 # openfield
 
-<img src="Icon.png" width="1000" align="right">
+<img src="Icon.png" width="600" align="right">
 
 the game will be released soon
 
