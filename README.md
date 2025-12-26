@@ -2,8 +2,6 @@
 
 <img src="Icon.png" width="300" align="right">
 
-the game will be released soon
-
 ## MOST RECENT STABLE RELEASE
 
 [no release yet]
