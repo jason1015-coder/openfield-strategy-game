@@ -8,8 +8,3 @@
 ## MOST RECENT STABLE RELEASE
 
 [no release yet]
-
-
-## Available versions 
-
-[no versions]
